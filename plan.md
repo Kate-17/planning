@@ -12,11 +12,14 @@
 
 ## Диаграмма Исикавы
 
-![1](https://pp.userapi.com/c836538/v836538670/44826/VW7TVuAINss.jpg "")
+![1](https://pp.userapi.com/c836538/v836538670/44830/vpltIEJUGCg.jpg "")
 
 ## Метод парных сравнений
 
+![2](https://pp.userapi.com/c836538/v836538670/4485d/FoXjYWk9ONc.jpg "")
+
 ## Диаграмма Паретто
+![3](https://pp.userapi.com/c836538/v836538670/44865/_8Fp8TJL1a4.jpg "")
 
 ## Сетевой график
 
